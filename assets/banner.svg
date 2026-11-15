@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<defs><linearGradient id="banner" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#102F58"/><stop offset="100%" stop-color="#2878B9"/></linearGradient></defs>
+<rect width="1000" height="260" rx="22" fill="url(#banner)"/>
+<circle cx="920" cy="30" r="120" fill="#ffffff" opacity=".06"/><circle cx="850" cy="245" r="100" fill="#ffffff" opacity=".05"/>
+<text x="48" y="66" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#B8D9F5">PYTHON PROGRAMMING ASSESSMENT</text>
+<text x="48" y="116" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#ffffff">Functions, Strings &amp; Lists</text>
+<text x="48" y="147" font-family="Arial,sans-serif" font-size="16" fill="#E5F1FB">Two practical programs for student results and class performance.</text>
+<g font-family="Arial,sans-serif" font-size="12" font-weight="700"><rect x="48" y="174" width="104" height="28" rx="14" fill="#DCEBFA"/><text x="100" y="192" text-anchor="middle" fill="#17324D">FUNCTIONS</text><rect x="162" y="174" width="94" height="28" rx="14" fill="#E9DDFB"/><text x="209" y="192" text-anchor="middle" fill="#4A2B76">STRINGS</text><rect x="266" y="174" width="75" height="28" rx="14" fill="#DDF4E4"/><text x="303" y="192" text-anchor="middle" fill="#185C35">LISTS</text><rect x="351" y="174" width="86" height="28" rx="14" fill="#FDECCB"/><text x="394" y="192" text-anchor="middle" fill="#80520B">LOOPS</text></g>
+<rect x="640" y="42" width="310" height="170" rx="12" fill="#0B1D33" stroke="#8CB7DB" stroke-opacity=".5"/>
+<circle cx="660" cy="61" r="5" fill="#F87171"/><circle cx="678" cy="61" r="5" fill="#FBBF24"/><circle cx="696" cy="61" r="5" fill="#34D399"/>
+<g font-family="Consolas,monospace" font-size="14"><text x="662" y="94" fill="#C4B5FD">def</text><text x="692" y="94" fill="#F8FAFC"> calculate_percentage(total):</text><text x="680" y="120" fill="#93C5FD">return</text><text x="730" y="120" fill="#FDE68A"> total / 500 * 100</text><text x="662" y="160" fill="#86EFAC">student_marks.append(mark)</text><text x="662" y="187" fill="#CBD5E1"># validate • calculate • report</text></g>
+</svg>
